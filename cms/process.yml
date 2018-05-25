@@ -1,0 +1,14 @@
+apps:
+  - script : ./app.js
+    name   : 'ggj-fe-cms'
+    watch  : true
+    instances: 1,
+    env    :
+      NODE_ENV: development
+    env_production:
+      NODE_ENV: production
+    env_testing:
+      NODE_ENV: testing
+    log_date_format: 'YYYY-MM-DD HH:mm Z'
+    error_file : '/logs/ggj-fe-cms/app-err.log'
+    out_file   : '/logs/ggj-fe-cms/app-out.log'

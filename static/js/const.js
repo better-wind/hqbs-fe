@@ -1,0 +1,1 @@
+window.routerPrefix = '/h5'

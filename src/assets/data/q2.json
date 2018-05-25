@@ -1,0 +1,374 @@
+[
+	{
+		"rightIndex": "0",
+		"type": "2",
+		"q": "罗莱家纺510的活动力度是？",
+		"a": [
+			{
+				"text": "领券5折购",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "领券6折购",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "领券7折购",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "领券8折购",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "2",
+		"q": "POLA美白口服液可领多少元券？",
+		"a": [
+			{
+				"text": "可用155元券",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "可用105元券",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "可用95元券",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "可用72元券",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "2",
+		"q": "环球捕手抽纸的活动力度是？",
+		"a": [
+			{
+				"text": "【买一赠一】",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "【买二赠一】",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "【买三赠一】",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "【买四赠一】",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "2",
+		"q": "环球自制化妆棉的活动力度是？",
+		"a": [
+			{
+				"text": "第二份19.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "第二份9.9",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "第二份29.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "第二份8.8",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "2",
+		"q": "美国童年时光补充液的活动力度是？",
+		"a": [
+			{
+				"text": "较日常售价直降了50",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "较日常售价直降了60",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "较日常售价直降了70",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "较日常售价直降了80",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "2",
+		"q": "武汉热干面的活动力度是？",
+		"a": [
+			{
+				"text": "第二件10元",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "第二件30元",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "第二件0元",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "第二件20元",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "2",
+		"q": "日本ReFa瘦脸仪的活动力度是？",
+		"a": [
+			{
+				"text": "可用72元优惠券",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "可用95元优惠券",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "可用105元优惠券",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "可用155元优惠券",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "2",
+		"q": "环球捕手周年庆是几月几号？",
+		"a": [
+			{
+				"text": "4月10号",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "5月10号",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "6月10号",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "8月10号",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "2",
+		"q": "每月10日是环球捕手什么活动？",
+		"a": [
+			{
+				"text": "美10节",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "心享日",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "品牌日",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "好10节",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "2",
+		"q": "今年4月10日环球捕手单日销售额是？",
+		"a": [
+			{
+				"text": "6000万",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "9000万",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1.53亿",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "2.1亿",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "2",
+		"q": "今年4月1日，环球捕手发起了什么公益活动？",
+		"a": [
+			{
+				"text": "助农计划",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "关爱山区儿童计划",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "BlueRun关爱自闭症公益跑",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "资教工程计划",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "2",
+		"q": "空气感纯棉卫生巾套装买几赠几？",
+		"a": [
+			{
+				"text": "【买一赠一】",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "【买二赠一】",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "【买三赠一】",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "【买四赠一】",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	}
+]

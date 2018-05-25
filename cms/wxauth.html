@@ -1,0 +1,145 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+	<meta name="format-detection" content="telephone=no,email=no" />
+	<meta name="keywords" content="" />
+	<meta name="description" content="" />
+	<meta name="HandheldFriendly" content="true" />
+	<!-- 删除苹果默认的工具栏和菜单栏 -->
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+</head>
+
+<body>
+	<div id="wrapper">
+	</div>
+	<script type="text/javascript" src="/static/js/const.js"></script>
+	<script type="text/javascript">
+		function getCookie(name) {
+			var arr = document.cookie.match(new RegExp("(^| )" + name + "=([^;]*)(;|$)"));
+			if (arr != null) return unescape(arr[2]);
+			return null;
+		}
+
+		function GetQueryString(name) { //获取url参数
+			var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)");
+			var r = window.location.search.substr(1).match(reg);
+			if (r != null) return (r[2]);
+			return null;
+		}
+
+		//格式化参数
+		function formatParams(data) {
+			var arr = [];
+			for (var name in data) {
+				arr.push(encodeURIComponent(name) + "=" + encodeURIComponent(data[name]));
+			}
+			arr.push(("v=" + Math.random()).replace(".", ""));
+			return arr.join("&");
+		}
+
+		function ajax(options) {
+			options = options || {};
+			options.type = (options.type || "GET").toUpperCase();
+			options.dataType = options.dataType || "json";
+			var params = formatParams(options.data);
+
+			//创建 - 非IE6 - 第一步
+			if (window.XMLHttpRequest) {
+				var xhr = new XMLHttpRequest();
+			} else { //IE6及其以下版本浏览器
+				var xhr = new ActiveXObject('Microsoft.XMLHTTP');
+			}
+
+			//接收 - 第三步
+			xhr.onreadystatechange = function() {
+				if (xhr.readyState == 4) {
+					var status = xhr.status;
+					if (status >= 200 && status < 300) {
+						options.success && options.success(xhr.responseText, xhr.responseXML);
+					} else {
+						options.fail && options.fail(status);
+					}
+				}
+			}
+
+			//连接 和 发送 - 第二步
+			if (options.type == "GET") {
+				options.url = options.url.indexOf('?') > -1 ? options.url + "&" + params : options.url + "?" + params;
+				xhr.open("GET", options.url, true);
+				xhr.send(null);
+			} else if (options.type == "POST") {
+				xhr.open("POST", options.url, true);
+				//设置表单提交时的内容类型
+				xhr.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+				xhr.send(params);
+			}
+		}
+
+		function useURL(key) {
+			var url = localStorage.getItem('HQBSREDIRECTOLD');
+			localStorage.removeItem('HQBSREDIRECTOLD');
+			return url;
+		}
+
+		function setTid(id, redirect) { //设置推荐人id
+			var that = this;
+			ajax({
+				url: '/ygg-hqbs/account/setTid',
+				type: 'post',
+				data: {
+					tid: id
+				},
+				success: function(res) {
+					res = JSON.parse(res);
+					if (res.status == 1) {
+						window.location.href = redirect
+						location.replace(currentUrl + '&stamp=' + new Date().getTime());
+					} else {
+						window.location.href = window.routerPrefix + '/login/introducer?' + redirect;
+					}
+				},
+				fail: function(data) {
+					console.log(data);
+				}
+			})
+		}
+		var wxCode = GetQueryString('code')
+		if (wxCode) { //登录并获取accountid
+			var search = localStorage.getItem('HQBSSEARCH')||''
+			localStorage.removeItem('HQBSSEARCH')
+			ajax({
+				url: '/ygg-hqbs/account/separateLoginByCode' + search,
+				type: 'POST',
+				data: {
+					code: wxCode
+				},
+				success: function(res) {
+					res = JSON.parse(res);
+					var redirect = useURL('HQBSREDIRECTOLD')
+					if (res.status == '1') {
+						window.location.href = redirect
+					} else if (res.status == '5') {
+						window.location.href = '/';
+					} else if (res.status == '7') {
+						window.location.href = window.routerPrefix + '/login/bound?' + redirect;
+					} else if (res.status == '8') {
+						if (res.tid) {
+							setTid(res.tid, redirect);
+						} else {
+							window.location.href = window.routerPrefix + '/login/introducer?' + redirect;
+						}
+					} else {
+						window.location.href = '/';
+					}
+				},
+				fail: function(res) {}
+			})
+		}
+	</script>
+</body>
+
+</html>

@@ -1,0 +1,76 @@
+body, h1, h2, h3, h4, h5, h6, hr, p,div, blockquote,dl, dt, dd, ul, ol, li,pre,button, input, textarea,th, td,header,nav,footer,aside,a,b,i,span,em{ margin: 0; padding: 0;}
+html{height:100%;min-height:100%;font-size: 62.5%}
+body{height:100%;font:1.4rem/1.4 'Microsoft Yahei',Tahoma,Helvetica,Arial,Sans-serif;color:#000;max-width:750px;margin:0 auto;}
+ul,ol{list-style: none}
+a{color:#666;text-decoration: none; outline: none;-webkit-tap-highlight-color:transparent;}
+img{max-width: 100%;border:none;vertical-align: middle;}
+input,select,button{ outline: none}
+a,span,i,b,em{display: inline-block; font-style: normal}
+/*public*/
+.left{float: left}
+.right{float: right;}
+.t_c{text-align: center;}
+.t_l{text-align: left;}
+.t_r{text-align: right}
+.dp-none{display: none;}
+.dp-block{display: block;}
+.clearfix:after{content:"";display: block; clear: both;}
+.body-auto{max-width:750px; margin: 0 auto}
+.fw-n{font-weight: normal;}
+.fw-b{font-weight:bold;}
+
+	/*font-size*/
+.f-0{font-size:0;}
+.f-10{font-size:1rem;}
+.f-12{font-size: 1.2rem}
+.f-13{font-size: 1.3rem}
+.f-14{font-size: 1.4rem}
+.f-15{font-size: 1.5rem}
+.f-16{font-size: 1.6rem}
+.f-18{font-size: 1.8rem}
+.f-20{font-size: 2.0rem}
+.f-24{font-size: 2.4rem}
+.f-30{font-size: 3rem}
+
+	/*color/background-color*/
+.col-fff{color:#fff}
+.col-ccc{color:#ccc}
+.col-888{color:#888}
+.col-c2c2c2{color:#c2c2c2;}
+.col-555{color:#555}
+.col-333{color:#333}
+.col-000{color:#000}
+.col-06f{color:#06f}
+.col-f00{color:#f00}
+.bg-f0{background:#f0f0f0}
+.bg-fff{background:#fff}
+.bg-f00{background:#f00}
+.bg-85{background:#858585}
+.bg-000{background:#000}
+.bg-f3f3f3{background:#f3f3f3;}
+
+	/*margin/padding*/
+.mt-5{margin-top:.5rem}
+.mt-10{margin-top:1rem}
+.mt-15{margin-top:1.5rem;}
+.mt-20{margin-top:2rem;}
+.mt-30{margin-top:3rem;}
+.mt-50{margin-top:5rem;}
+
+.mb-5{margin-bottom:.5rem}
+.mb-10{margin-bottom:1rem}
+.mb-15{margin-bottom:1.5rem}
+.mb-20{margin-bottom:2.0rem}
+.mb-30{margin-bottom:3.0rem}
+
+.ml-5{margin-left:.5rem}
+.ml-10{margin-left:1rem}
+.ml-20{margin-left:2rem}
+
+.pt-50{padding-top:5rem;}
+.pb-20{padding-bottom:2rem;}
+
+/*垂直居中*/
+.vertical-center-outer:after { display: inline-block; content: ''; height: 100%; vertical-align: middle;}
+.vertical-center {display: inline-block; vertical-align: middle;}
+.mask-full{display:none;position:fixed;z-index: 98;left:0;top:0;width:100%;height:100%;background:rgba(0,0,0,.8);}

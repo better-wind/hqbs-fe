@@ -1,0 +1,147 @@
+body,
+p,
+hr,
+div,
+pre,
+blockquote,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul,
+ol,
+li,
+dl,
+dt,
+dd,
+table,
+th,
+td,
+form,
+fieldset,
+legend,
+input,
+textarea,
+select,
+header,
+nav,
+footer,
+aside,
+a,
+b,
+i,
+span,
+em {
+  margin: 0;
+  padding: 0;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+}
+
+html {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  height: 100%;
+  margin: 0 auto;
+  font: 14px/1.4 "PingFangSC-Regular", "Helvetica Neue", Helvetica, "Microsoft YaHei", Tahoma, Arial, sans-serif;
+  color: #333;
+  background: #f5f5f5;
+}
+
+ul,
+ol {
+  list-style: none
+}
+
+img {
+  max-width: 100%;
+  border: none;
+  vertical-align: middle;
+}
+
+input,
+fieldset,
+select {
+  outline: none;
+}
+input[type="search"]{-webkit-appearance:none;}
+input::-webkit-search-decoration,
+input::-webkit-search-cancel-button {
+    display: none;
+}
+input[type=text],
+input[type=password] {
+  border: 1px solid #ccc;
+  width: 200px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 5px;
+  text-indent: 10px;
+}
+
+select {
+  width: 200px;
+  height: 35px;
+  line-height: 35px;
+  border-radius: 5px;
+  text-indent: 10px;
+}
+
+a,
+span,
+i,
+b,
+em,
+address,
+var {
+  display: inline-block;
+  font-style: normal;
+}
+
+a {
+  text-decoration: none;
+  outline: none;
+  color: #333;
+}
+
+a:hover {
+  color: #000;
+}
+
+.t_c {
+  text-align: center;
+}
+
+.display-flex {
+  /* display:-webkit-flex;
+  display: -webkit-box;
+  display: -moz-box; */
+  display: flex;
+}
+
+.flex {
+  /* -webkit-box-flex: 1;
+  -moz-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1; */
+  flex: 1;
+}
+
+.clearfix:after {
+  content: '.';
+  display: block;
+  height: 0;
+  clear: both;
+  visibility: hidden;
+}
+.col-fff {
+  color: #fff
+}
+
+
+

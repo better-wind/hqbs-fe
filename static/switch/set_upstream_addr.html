@@ -1,0 +1,157 @@
+<!doctype html>
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+<title>
+设置upstream addr
+</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<script src="https://apps.bdimg.com/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.js"></script>
+<script>
+
+    $(function(){
+        $("#set").off('click').on('click', function(){
+             $.removeCookie('current_environment', { path: '/' });
+             $.cookie('current_environment', $('input[type="radio"][name="sample-radio"]:checked').val(), { expires: 365, path: '/', secure: false});
+            
+             $(".turn-kuang").show();
+          });
+    });
+</script>
+
+<style type="text/css">
+body{
+    background: #000;
+    color:#fff;
+    font-size:14px
+}
+
+.set-name{
+    display: inline-block;
+    width: 60px;
+}
+
+form {
+				width: 300px;
+				padding: 18px 20px 0;
+				margin:20px auto;
+				background-color: #0064cd;
+				background-image: -khtml-gradient(linear, left top, left bottom, from(#049cdb), to(#0064cd));
+				background-image: -moz-linear-gradient(#049cdb, #0064cd);
+				background-image: -ms-linear-gradient(#049cdb, #0064cd);
+				background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #049cdb), color-stop(100%, #0064cd));
+				background-image: -webkit-linear-gradient(#049cdb, #0064cd);
+				background-image: -o-linear-gradient(#049cdb, #0064cd);
+				background-image: linear-gradient(#049cdb, #0064cd);
+				-webkit-border-radius: 10px;
+				-moz-border-radius: 10px;
+				-khtml-border-radius: 10px;
+				border-radius: 10px;
+				-webkit-box-shadow: 0 5px 12px rgba(0,0,0,.4);
+				-moz-box-shadow: 0 5px 12px rgba(0,0,0,.4);
+				-khtml-box-shadow: 0 5px 12px rgba(0,0,0,.4);
+				box-shadow: 0 5px 12px rgba(0,0,0,.4);
+			}
+			fieldset {
+				border: 0;
+				padding-bottom: 9px;
+			}
+			label {
+				display: block;
+				cursor: pointer;
+				line-height: 20px;
+				padding-bottom: 9px;
+				text-shadow: 0 -1px 0 rgba(0,0,0,.2);
+			}
+			.checkboxes {
+				border-bottom: 1px solid #0064cd;
+			}
+			.radios {
+				padding-top: 18px;
+				border-top: 1px solid #049CDB;
+			}
+			.label_check input,
+			.label_radio input {
+				margin-right: 5px;
+			}
+
+			.has-js .label_check,
+			.has-js .label_radio {
+				padding-left: 34px;
+			}
+
+			.has-js .label_radio,
+			.has-js .label_check{
+				background: url(images/checkbox-radio-bg.png) no-repeat;
+			}
+			.has-js .label_radio {
+				background-position: 0 0;
+			}
+			.has-js .label_check {
+				background-position: 0 -100px
+			}
+			.has-js label.c_on {
+				background-position: 0 -150px;
+			}
+			.has-js label.r_on {
+				background-position: 0 -50px;
+			}
+			.has-js .label_check input,
+			.has-js .label_radio input {
+				position: absolute;
+				left: -9999px;
+			}
+			.turn-kuang{
+				display:none;
+				position:fixed;
+				z-index:999;
+				left:50%;
+				top:50%;
+				width:100%;
+				padding:0 20px;
+				background:rgba(0,0,0,.5);
+				
+			}
+				
+			.turn-kuang a{
+				display:inline-block;
+				height:28px;
+				line-height:28px;
+				padding:0 10px;
+				color:#fff;
+				border:1px solid #f30;
+				border-radius:5px;
+			}
+
+</style>
+
+</head>
+
+<body>
+<div style="margin:0 auto;padding-top:100px;position:absolute;z-index: 5;left:50%;top:0;transform:translate(-50%,0); ">
+<p>Current Environment: <script>document.write($.cookie("current_environment"));</script></p>
+<form accept-charset="utf-8" method="get" action="#">
+
+				<fieldset class="radios">
+					<label for="radio-01" class="label_radio">
+						<input type="radio" checked="checked" value="default" id="radio-01" name="sample-radio" /> 默认测试环境
+					</label>
+					<label for="radio-02" class="label_radio">
+						<input type="radio" value="backup" id="radio-02" name="sample-radio" /> 二套测试环境
+					</label>
+
+				</fieldset>
+				<fieldset class="radios">
+					<input type="button" value="设 置" id="set" />
+				</fieldset class="radios">
+			</form>
+</div>
+
+<div class="turn-kuang">
+	<a href="https://test-font.51bushou.com">微信首页</a>
+	<a href='ggj://redirect/typeCommon/{"type":"9"}'>app首页</a>
+</div>
+
+</body>
+</html>

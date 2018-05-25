@@ -1,0 +1,1021 @@
+[
+	{
+		"rightIndex": "0",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/34064f824a41c.jpg",
+		"title": "德国康巴赫电饭煲",
+		"desc": "众望所归大爆款,360度立体加热,4L智能家用",
+		"price": "899",
+		"a": [
+			{
+				"text": "599",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "699",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "789",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "799",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/179a1ddec74eb.jpg",
+		"title": "韩国JM防晒喷雾",
+		"desc": "高防晒指数,2支装，180ml/支",
+		"price": "135",
+		"a": [
+			{
+				"text": "126",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "133",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "134",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "134.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "1",
+		"img": "https://img.alicdn.com/imgextra/i2/1790973264/TB2.HCSdY9YBuNjy0FgXXcxcXXa_!!1790973264.jpg",
+		"title": "蒙牛纯甄24盒装",
+		"desc": "高防晒指数,2支装，180ml/支",
+		"price": "108",
+		"a": [
+			{
+				"text": "95.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "92.9",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "93.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "94.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/28a7f7c1e024a.jpg",
+		"title": "海南小台农芒果",
+		"desc": "单个75g以上，5斤装约30-35个",
+		"price": "36",
+		"a": [
+			{
+				"text": "28.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "29.9",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "30.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "31.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "1",
+		"img": "https://img.gegejia.com/seller/platform/all/1798546e8cf9b.jpg!v1product",
+		"title": "澳洲草饲牛排",
+		"desc": "原切、8片装",
+		"price": "189",
+		"a": [
+			{
+				"text": "179（不可用券）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "179（可用券）",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "185（不可用券）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "185",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/22f8fd1323774.jpg",
+		"title": "雪花磁石气垫",
+		"desc": "象牙白、妆容超服帖",
+		"price": "153",
+		"a": [
+			{
+				"text": "146",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "145",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "144",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "143",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/9e16c63ba34143678b68174ea533f641.jpg",
+		"title": "客来美破壁机",
+		"desc": "大爆款、家用、多功能料理机",
+		"price": "1598",
+		"a": [
+			{
+				"text": "699",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "599",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "569",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "529",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/1d498ba247325.jpg",
+		"title": "VVC防晒帽",
+		"desc": "防紫外线、赠E-90冰袖3双",
+		"price": "198",
+		"a": [
+			{
+				"text": "168",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "158",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "148",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "138",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/34063bdd39724.jpg",
+		"title": "法国美帕修复喷雾",
+		"desc": "众网红一致推荐、维生素原B5、150ml",
+		"price": "229",
+		"a": [
+			{
+				"text": "179",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "189",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "195",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "199",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "1",
+		"img": "https://img.gegejia.com/seller/platform/all/28a5662fcca37.jpg!v1product",
+		"title": "蛇毒眼膜红色版",
+		"desc": "王菲同款、 60枚",
+		"price": "279",
+		"a": [
+			{
+				"text": "268",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "267",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "265",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "266",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+  {
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/product/68b04f092f16.jpg",
+		"title": "6罐澳洲a2白金装3段",
+		"desc": "直邮、900g/罐、高端婴幼儿奶粉的领先品牌",
+		"price": "1598",
+		"a": [
+			{
+				"text": "1449",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1469",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1489",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1429",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},{
+		"rightIndex": "0",
+		"type": "1",
+		"img": "https://img.gegejia.com/cdf1e621ff06417aa02a91028fe359fd.jpg",
+		"title": "蓝山风味2袋",
+		"desc": "【马来西亚进口、甜苦适中】",
+		"price": "69",
+		"a": [
+			{
+				"text": "49",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "50",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "51",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "52",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "1",
+		"img": "https://img.gegejia.com/product/dbd3b831ad1.jpg",
+		"title": "6罐澳洲爱他美金装3段",
+		"desc": "【直邮、900g/罐、环球奶粉扛把子】",
+		"price": "1179",
+		"a": [
+			{
+				"text": "999",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1000",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1001",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "1002",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "0",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/1d49d042ee626.jpg",
+		"title": "匡威高帮帆布鞋",
+		"desc": "【黑色款、非常百搭】",
+		"price": "359",
+		"a": [
+			{
+				"text": "311",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "309",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "312",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "310",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "1",
+		"img": "https://img.gegejia.com/2e50e20a01078.jpg!v1product",
+		"title": "新谷酵素加强版",
+		"desc": "【两件装、30袋、吃货的终极福利】",
+		"price": "438",
+		"a": [
+			{
+				"text": "389",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "388",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "390",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "391",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "1",
+		"img": "https://img.gegejia.com/1d45458bece12.jpg!v1product",
+		"title": "蛋挞DIY套装",
+		"desc": "【36个蛋挞皮+2盒蛋液、KFC同款】",
+		"price": "69.9",
+		"a": [
+			{
+				"text": "60（第二件半价）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "59（第二件半价）",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "61（第二件半价）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "62（第二件半价）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/1799f0b295468.jpg",
+		"title": "美国维骨力",
+		"desc": "【2瓶装、200粒、补钙王单品】",
+		"price": "398",
+		"a": [
+			{
+				"text": "362",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "361",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "360",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "359",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/1d49b98e83850.jpg",
+		"title": "自热螺蛳粉",
+		"desc": "【3盒装、吃一次就终身难忘】",
+		"price": "48.8",
+		"a": [
+			{
+				"text": "38.9（第二件29.9，第三件9.10）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "38.9（第二件29.9，第三件9.11）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "38.9（第二件29.9，第三件9.12）",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "38.9（第二件29.9，第三件9.9）",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/9ef09d06c5f64a1bafa61bec8ad34f66.jpg",
+		"title": "名家厨房菲力牛排",
+		"desc": "【20份装、黑椒味、堪比米其林大厨】",
+		"price": "208",
+		"a": [
+			{
+				"text": "168",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "167",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "166",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "165",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/3406361e3a26f.jpg",
+		"title": "高油咸鸭蛋",
+		"desc": "【20枚装、55g/枚、几乎全都有油】",
+		"price": "39.9",
+		"a": [
+			{
+				"text": "32.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "31.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "29.9",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "30.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "1",
+		"img": "https://img.gegejia.com/seller/platform/all/179749addd0ca.jpg!v1product",
+		"title": "广东清远走地鸡",
+		"desc": "【买一赠一、吃五谷杂粮的鸡】",
+		"price": "145",
+		"a": [
+			{
+				"text": "129",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "119",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "109",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "139",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+  {
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/632b12a3560c476c9aad8a661c3e29aa.jpg",
+		"title": "进口绿心奇异果",
+		"desc": "【12颗装、 单果约90g 富含维C、完全不酸】",
+		"price": "42",
+		"a": [
+			{
+				"text": "32.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "31.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "30.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "29.9",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},{
+		"rightIndex": "1",
+		"type": "1",
+		"img": "https://img.gegejia.com/4185a6ad02c14a21988c8d83f6d6bc81.jpg",
+		"title": "安耐晒金瓶防晒霜",
+		"desc": "【加量装90ml、防晒界的扛把子】",
+		"price": "289",
+		"a": [
+			{
+				"text": "282",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "279",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "281",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "280",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "1",
+		"type": "1",
+		"img": "https://img.gegejia.com/87ac37e7c5984881b29d5fd536d3351b.jpg",
+		"title": "Eaoron减肥膏",
+		"desc": "【150ml、外用涂抹式减肥膏】",
+		"price": "199",
+		"a": [
+			{
+				"text": "182",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "179",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "180",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "181",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/seller/platform/all/c3c41f5ae24a.jpg",
+		"title": "黛珂美容液",
+		"desc": "【60ml、炒鸡好用！！！】",
+		"price": "819",
+		"a": [
+			{
+				"text": "802",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "800",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "801",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "799",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/5e2df4e2222544208e2e6d21fc66f443.jpg",
+		"title": "玛呖德紫米面包",
+		"desc": "【1100g、性价比very高】",
+		"price": "22.8",
+		"a": [
+			{
+				"text": "20.9",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "22",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "21",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "20.8",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://gegejia.oss-cn-hangzhou.aliyuncs.com/seller/platform/all/11ea67bf4dbe9.jpg",
+		"title": "沃隆每日坚果",
+		"desc": "【A款750g、健脑还低脂】",
+		"price": "148",
+		"a": [
+			{
+				"text": "144",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "140",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "139",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "138",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "1",
+		"img": "https://img.gegejia.com/seller/platform/all/1d46d17731efc.jpg!v1product",
+		"title": "美国自然之宝软糖",
+		"desc": "【两瓶装、草莓味230粒、胶原蛋白棒棒的】",
+		"price": "312",
+		"a": [
+			{
+				"text": "300",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "301",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "299",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "302",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+	{
+		"rightIndex": "2",
+		"type": "1",
+		"img": "https://img.gegejia.com/seller/platform/all/22f5de82e26ca.jpg!v1product",
+		"title": "澳洲Bio-E柠檬酵素",
+		"desc": "【500毫升、康熙女神刘真推荐、酸酸甜甜享瘦身】",
+		"price": "282",
+		"a": [
+			{
+				"text": "255",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "254",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "256",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "257",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	},
+  	{
+		"rightIndex": "3",
+		"type": "1",
+		"img": "https://img.gegejia.com/2cfb74bc250d4c8eb366bc8b9455f4dd.jpg",
+		"title": "日本SOS快速减肥",
+		"desc": "【2瓶、60粒、SOS最好用的单品】",
+		"price": "98",
+		"a": [
+			{
+				"text": "80",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "81",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "82",
+				"right": false,
+				"rightClass": false,
+				"wrongClass": false
+			},
+			{
+				"text": "79",
+				"right": true,
+				"rightClass": false,
+				"wrongClass": false
+			}
+		]
+	}
+  
+]
